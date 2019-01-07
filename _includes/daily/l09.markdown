@@ -1,0 +1,30 @@
+<div class="lecture1">
+
+<div class="column_date">
+<p markdown="block">
+
+No classes  <br> 
+Feb. 19
+
+</p>
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+__No classes scheduled__ 
+   
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+
+
+
+</p>
+</div>
+
+</div>

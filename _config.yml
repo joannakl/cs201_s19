@@ -1,0 +1,99 @@
+
+title: CSCI-UA 201 (Computer Systems Organization)
+short_title: CS 201
+description: "Course website for CSCI-UA 201 (Computer Systems Organization) course."
+
+baseurl: "/cs201_s19" # the subpath of your site, e.g. /blog
+url: "https://joannakl.github.io/cs201_s19" # the base hostname & protocol for your site, e.g. http://example.com
+
+markdown: kramdown
+kramdown:
+  entity_output: numeric
+  smart_quotes: apos,apos,quot,quot
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+
+
+course_number: "CSCI-UA 201"
+course_name: "Computer Systems Organization"
+course_section: "003"
+course_semester: "Spring 2019"
+course_time: "<br>Mondays and Wednesdays 12:30PM - 1:45PM, CIWW, Room 109<br>"
+
+recitation_section: "004"
+recitation_time:  "<br>Tuesdays 8:00AM - 9:15AM, CIWW 109<br>"
+recitation_instructor_full: ""
+recitation_instructor1_name: ""
+recitation_instructor2_name: ""
+
+
+instructor_office_hours: "Mondays 9:30 - 11:00am, Thursdays 1:30 - 3:00pm,
+(or you can schedule an appointment if these times do not work for you)"
+instructor_office_hours_location: "423 CIWW"
+recitation1_office_hours: "Tuesday 9:15 - 11:15 am"
+recitation1_office_hours_location: "412 CIWW"
+recitation2_office_hours: "Wednesdays: 10:00 - 12:00 am"
+recitation2_office_hours_location: "412 CIWW"
+
+current_course1_title: "CSCI 201 sec. 3"
+current_course1_link: "https://cs.nyu.edu/~joannakl/cs201_s19/"
+current_course2_title: "CSCI 480 sec. 4 (APS)"
+current_course2_link: "https://cs.nyu.edu/~joannakl/aps_s19/"
+current_course3_title: "CSCI 480 sec. 10 (OSSD)"
+current_course3_link: "https://cs.nyu.edu/~joannakl/ossd_s18/"
+
+#tutor_location: "406 WWH"
+#tutor_schedule_link: "http://cims.nyu.edu/~joannakl/CSCI102_common/#tutoring"
+
+midterm_exam_date:  ""
+final_exam_date: ""
+final_exams_link: "http://cs.nyu.edu/dynamic/courses/exams/"
+
+piazza_site: http://piazza.com/nyu/spring2019/csci201
+gradescope_site: "https://gradescope.com/"
+github_site: "https://github.com/nyu-cs201-s19"
+
+book_required: "Computer Systems: A Programmer's Perspective, "
+book_required_author: "Randal E. Bryant and David R. O'Hallaron, "
+book_required_edition: "**3rd** edition, "
+book_required_link: http://csapp.cs.cmu.edu/
+book_required_note: " (the previous editions of the book will not work, international edition of the book
+had some mistakes as of a year ago) "
+book_required_image: "http://csapp.cs.cmu.edu/3e/images/csapp3e-cover.jpg"
+
+book_opt_1: "The C programming language, "
+book_opt_1_author: "Brian W. Kernighan, Dennis Ritchie, "
+book_opt_1_edition: "3nd edition, "
+book_opt_1_link: ""
+book_opt_1_note: "Optional, but strongly recommended (you can use any C programming book as an alternative)."
+book_opt_1_image: "https://www.pearsonhighered.com/assets/bigcovers/0/1/3/3/0133086216.jpg"
+
+
+#book_opt_2: "Introduction to Java Programming, "
+#book_opt_2_author: "Daniel Liang, "
+#book_opt_2_edition: "any edition"
+#book_opt_2_link: "https://www.pearsonhighered.com/product/Liang-Intro-to-Java-Programming-Comprehensive-Version-10th-Edition/9780133761313.html"
+#book_opt_2_note: "This is your cs101 textbook. It is a good resource for
+#refreshing the Java material. "
+#book_opt_2_image: "https://www.pearsonhighered.com/assets/bigcovers/0/1/3/3/0133761312.jpg"
+
+
+#book_opt_3: "Think Java: How To Think Like a Computer Scientist, "
+#book_opt_3_author: "Chris Mayfield, Allen Downey, "
+#book_opt_3_edition: ""
+#book_opt_3_link: "https://open.umn.edu/opentextbooks/BookDetail.aspx?bookId=285"
+#book_opt_3_note: "Optional Java resource<br> Open book - available online"
+#book_opt_3_image: "https://open.umn.edu/opentextbooks/Images/9781491929568.png"
+
+
+
+
+#book_opt_4: "Java, Java, Java: Object Oriented Problem Solving, "
+#book_opt_4_author: "Ralph Morelli, Ralph Walde, "
+#book_opt_4_edition: ""
+#book_opt_4_link: "https://open.umn.edu/opentextbooks/BookDetail.aspx?bookId=218"
+#book_opt_4_note: "Optional Java resource<br> Open book - available online"
+#book_opt_4_image: "https://open.umn.edu/opentextbooks/Images/0000JavaJavaJ.png"

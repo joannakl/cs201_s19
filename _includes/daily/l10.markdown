@@ -1,0 +1,32 @@
+<div class="lecture2">
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 9 <br> 
+Feb. 20  
+
+</p>
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+__lecture will be held on Tuesday at 8am in CIWW 109__
+
+Finish with floating point encoding.
+
+Start machine level programming. 
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+Reading: chapter 3
+
+
+</p>
+</div>
+
+</div>

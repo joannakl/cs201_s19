@@ -1,0 +1,29 @@
+<div class="lecture2">
+
+<div class="column_date">
+<p markdown="block">
+
+Class # 24 <br>
+April 25
+
+</p>
+</div>
+
+<div class="column_materials">
+<p markdown="block">
+
+Virtual memory
+
+[slides](https://docs.google.com/presentation/d/15ORlXAyKSRn_5-TXiPhD2U7JidYG_U1YKQgsjl0pYEQ/present?token=AC4w5VjsrqLyEmQtCGDj2K1z5DvU5-k4wg%3A1525132789419&includes_info_params=1#slide=id.g10f3b8246b_0_165)
+
+</p>
+</div>
+
+<div class="column_assign">
+<p markdown="block">
+
+
+</p>
+</div>
+
+</div>

@@ -1,0 +1,25 @@
+
+<div class="recitation">
+
+<div class="column_date">
+<p markdown="block">
+
+Rec # 10 <br>
+April 3
+
+</p>          
+</div>
+
+<div class="column_recitation">
+<p markdown="block">
+
+Working with assembly and arrays and structures.
+
+recitation 9 repositories available on GitHub
+
+
+
+</p>        
+</div>
+
+</div>

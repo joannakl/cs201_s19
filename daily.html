@@ -1,0 +1,87 @@
+---
+layout: default
+title: Daily
+days:
+    - "01"
+    - "02"
+    - "03"
+    - "l03"
+    - "r02"
+    - "l04"
+    - "l05"
+    - "r03"
+    - "l06"
+    - "l07"
+    - "r04"
+    - "l08"
+    - "l09"
+    - "l10"
+    - "r05"
+    - "l11"
+    - "r06"
+    - "l12"
+    - "l13"
+    - "r07"
+    - "l14"
+    - "l15"
+    - "r08"
+    - "l16"
+    - "l17"
+    - "r09"
+    - "l18"
+    - "l19"
+    - "r10"
+    - "l20"
+    - "l21"
+    - "r11"
+    - "l22"
+    - "l23"
+    - "r12"
+    - "l24"
+    - "l25"
+    - "r13"
+    - "l26"
+    - "l27"
+    - "r14"
+    - "l28"
+    - "review"
+    - "final"
+---
+
+<b>GTG</b> = <em>{{ site.book_required }}</em> {{ site.book_required_author }} <br>
+<b>ODSA</b> = <a href="{{ site.book_opt_1_link }}" target="_blank">{{ site.book_opt_1 }}</a> <br><br>
+
+<div class="titles">
+    <div class="column_date">
+        Date
+    </div>
+
+    <div class="column_materials">
+        Material Covered, Notes, Handouts and Links
+    </div>
+
+    <div class="column_assign">
+        Readings, Assignments, Homework
+    </div>
+</div>
+
+{% comment %}
+{% for i in page.days reversed %}
+    {% assign file_name = "daily/" | append:  i  | append: ".markdown" %}
+    {% include   {{ file_name }} %}
+
+{% endfor %}
+
+{% endcomment %}
+
+
+{% for i in page.days reversed %}
+    {% assign file_name = "daily/" | append:  i  | append: ".markdown" %}
+    {% capture my_include %}{% include {{ file_name }} %}{% endcapture %}
+    {{ my_include | markdownify }}
+
+{% endfor %}
+
+
+<br>
+<br>

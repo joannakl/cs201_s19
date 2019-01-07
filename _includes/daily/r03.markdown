@@ -1,0 +1,25 @@
+
+<div class="recitation">
+
+<div class="column_date">
+<p markdown="block">
+        
+Rec # 3 <br> 
+Feb 6
+        
+</p>          
+</div>
+    
+<div class="column_recitation">
+<p markdown="block">
+
+see recitation 3 repository in the course organization on GitHub  
+
+complete all the exercises by Friday 2/9, 11:55pm. 
+
+
+</p>        
+</div>
+    
+</div>
+  

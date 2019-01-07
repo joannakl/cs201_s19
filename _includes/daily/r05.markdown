@@ -1,0 +1,25 @@
+
+<div class="recitation">
+
+<div class="column_date">
+<p markdown="block">
+        
+Rec # 5 <br> 
+Feb 21
+        
+</p>          
+</div>
+    
+<div class="column_recitation">
+<p markdown="block">
+
+__recitation will be held on Wednesday at 12:30pm in 60 Fifth Ave, Room 150__
+
+see recitation 5 repository in the course organization on GitHub  
+
+
+</p>        
+</div>
+    
+</div>
+  

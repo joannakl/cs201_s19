@@ -1,0 +1,24 @@
+
+<div class="recitation">
+
+<div class="column_date">
+<p markdown="block">
+
+Rec # 8 <br>
+March 20
+
+</p>          
+</div>
+
+<div class="column_recitation">
+<p markdown="block">
+
+Using GDB to go through machine instructions of programs and access registers.
+
+rec7 repositories available in GitHub class organization
+
+
+</p>        
+</div>
+
+</div>
