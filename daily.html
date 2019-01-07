@@ -2,50 +2,53 @@
 layout: default
 title: Daily
 days:
-    - "01"
-    - "02"
-    - "03"
-    - "l03"
-    - "r02"
-    - "l04"
-    - "l05"
-    - "r03"
-    - "l06"
-    - "l07"
-    - "r04"
-    - "l08"
-    - "l09"
-    - "l10"
-    - "r05"
-    - "l11"
-    - "r06"
-    - "l12"
-    - "l13"
-    - "r07"
-    - "l14"
-    - "l15"
-    - "r08"
-    - "l16"
-    - "l17"
-    - "r09"
-    - "l18"
-    - "l19"
-    - "r10"
-    - "l20"
-    - "l21"
-    - "r11"
-    - "l22"
-    - "l23"
-    - "r12"
-    - "l24"
-    - "l25"
-    - "r13"
-    - "l26"
-    - "l27"
-    - "r14"
-    - "l28"
-    - "review"
-    - "final"
+#    - "r01"
+#    - "l01"
+#    - "l02"
+#    - "r02"
+#    - "l03"
+#    - "l04"
+#    - "change_2_10"
+#    - "r03"
+#    - "l05"
+#    - "l06"
+#    - "r04"
+#    - "l07"
+#    - "l08"
+#    - "r05"
+#    - "l09"
+#    - "l10"
+#    - "r06"
+#    - "l11"
+#    - "l12"
+#    - "r07"
+#    - "l13"
+#    - "l14"
+#    - "change_3_18-24"
+#    - "r08"
+#    - "l15"
+#    - "l16"
+#    - "r09"
+#    - "l17"
+#    - "l18"
+#    - "change_4_5"
+#    - "r10"
+#    - "l19"
+#    - "l20"
+#    - "r11"
+#    - "l21"
+#    - "l22"
+#    - "r12"
+#    - "l23"
+#    - "l24"
+#    - "r13"
+#    - "l25"
+#    - "l26"
+#    - "r14"
+#    - "l27"
+#    - "l28"
+#    - "review"
+#    - "final"
 ---
 
 <b>GTG</b> = <em>{{ site.book_required }}</em> {{ site.book_required_author }} <br>
@@ -65,14 +68,6 @@ days:
     </div>
 </div>
 
-{% comment %}
-{% for i in page.days reversed %}
-    {% assign file_name = "daily/" | append:  i  | append: ".markdown" %}
-    {% include   {{ file_name }} %}
-
-{% endfor %}
-
-{% endcomment %}
 
 
 {% for i in page.days reversed %}
