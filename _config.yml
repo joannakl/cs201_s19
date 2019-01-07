@@ -33,6 +33,8 @@ recitation_instructor1_full: "Christopher Moirano"
 recitation_instructor2_full: "Sai Anirudh Kondaveeti"
 recitation_instructor1_name: "Chris"
 recitation_instructor2_name: "Anirudh"
+course_assistant_name_full: "Arnav Kansal"
+course_assistant_name: "Arnav"
 
 
 instructor_office_hours: "Mondays 12:30 - 2:30pm, Thursdays 11:00am - 12:00pm,
@@ -42,8 +44,8 @@ recitation1_office_hours: "TBD"
 recitation1_office_hours_location: "TBD"
 recitation2_office_hours: "TBD"
 recitation2_office_hours_location: "TBD"
-recitation3_office_hours: "TBD"
-recitation3_office_hours_location: "TBD"
+course_assistant_office_hours: "TBD"
+course_assistant_office_hours_location: "TBD"
 
 current_course1_title: "CSCI 201 sec. 3"
 current_course1_link: "https://cs.nyu.edu/~joannakl/cs201_s19/"
