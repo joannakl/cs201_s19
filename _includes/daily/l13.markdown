@@ -3,8 +3,8 @@
 <div class="column_date">
 <p markdown="block">
 
-Class # 12 <br> 
-March 5
+Class # 13 <br>
+Tue, 3/12
 
 </p>
 </div>
@@ -12,10 +12,10 @@ March 5
 <div class="column_materials">
 <p markdown="block">
 
-Exam Q&A. 
+Exam Q&A.
 
 
-   
+
 
 </p>
 </div>

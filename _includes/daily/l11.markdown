@@ -3,8 +3,8 @@
 <div class="column_date">
 <p markdown="block">
 
-Class # 10 <br> 
-Feb. 26
+Class # 11 <br>
+Tue, 3/5
 
 </p>
 </div>
@@ -12,7 +12,7 @@ Feb. 26
 <div class="column_materials">
 <p markdown="block">
 
-Machine level programming. 
+Machine level programming.
 
 
 [slides](https://docs.google.com/presentation/d/1Bmpjmoh4q32m2Y2DmqzYO516q4e3UUuSGUQ0yRD_qNM/preview#slide=id.p) <br>

@@ -3,8 +3,8 @@
 <div class="column_date">
 <p markdown="block">
 
-Class # 5 <br> 
-Feb. 5
+Class # 5 <br>
+Tue, 2/12
 
 </p>
 </div>
@@ -12,7 +12,7 @@ Feb. 5
 <div class="column_materials">
 <p markdown="block">
 
-Even more on C: strings in C = null terminated arrays of characters, 
+Even more on C: strings in C = null terminated arrays of characters,
 structures.   
 
 </p>

@@ -3,8 +3,8 @@
 <div class="column_date">
 <p markdown="block">
 
-Class # 14 <br> 
-March 19
+Class # 15 <br>
+Tue, 3/26
 
 </p>
 </div>
@@ -14,11 +14,11 @@ March 19
 
 Control structures.
 
-[slides](https://docs.google.com/presentation/d/1xBRBB-zCWUfjCTA9X8QBkmeOkz4qVaZXL01MzWXfya8/present?token=AC4w5Viwi-jxPXnA2o7yoeJATGclhSziNg%3A1521548170906&includes_info_params=1#slide=id.p) 
+[slides](https://docs.google.com/presentation/d/1xBRBB-zCWUfjCTA9X8QBkmeOkz4qVaZXL01MzWXfya8/present?token=AC4w5Viwi-jxPXnA2o7yoeJATGclhSziNg%3A1521548170906&includes_info_params=1#slide=id.p)
 
 Additional resources:
 
-- compile C to assembly in your browser: [CompilerExplorer](https://godbolt.org/) 
+- compile C to assembly in your browser: [CompilerExplorer](https://godbolt.org/)
 - [x86-64 "cheat sheet" from Brown](https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf)
 - [GDB "cheat sheet" from Brown](http://cs.brown.edu/courses/cs033/docs/guides/gdb.pdf)
 - [another GDB cheat sheet](http://csapp.cs.cmu.edu/3e/docs/gdbnotes-x86-64.pdf)    
@@ -31,7 +31,7 @@ Additional resources:
 
 Project 2, due March 30.
 
-Repositories available in GitHub class organization. 
+Repositories available in GitHub class organization.
 
 
 </p>

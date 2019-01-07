@@ -3,7 +3,8 @@
 <div class="column_date">
 <p markdown="block">
 
-Class # 3 <br> 
+Class # 3 <br>
+Tue, 2/5
 
 </p>
 </div>
@@ -11,9 +12,9 @@ Class # 3 <br>
 <div class="column_materials">
 <p markdown="block">
 
-Continue with basics of C. 
+Continue with basics of C.
 
-[lecture 2](notes/Lecture02-C_basics.pdf), slightly more, but not yet finished 
+[lecture 2](notes/Lecture02-C_basics.pdf), slightly more, but not yet finished
 
 </p>
 </div>
@@ -22,10 +23,10 @@ Continue with basics of C.
 <p markdown="block">
 
 - install missing manual pages (man pages) on the virtual machine
-    - open the termina window
+    - open the terminal window
     - run `sudo apt install manpages-posix-dev`
     - you will be prompted for the password (same as what you use for logging
-    in to the virtual machine) 
+    in to the virtual machine)
 
 
 
