@@ -81,7 +81,8 @@ The late project submissions lose 20% of their value for each day they are late.
 
 # Exams
 ---
-There will be a midterm and a final exam. All exams are cumulative.
+There will be an in-class midterm exam and an in-class final exam (during the time allocated by CAS).
+There will also be an online test at the first part of the semester. All exams are cumulative.
 
 __Missing an exam:__ There will be no make-up exams. Failure to take an exam counts as a zero grade on that exam. The only exception to this rule is for students who have a legitimate medical or personal emergency (documented). These students need to talk to the instructor as soon as possible (trying to excuse an exam absence a week after it happened will not work).
 

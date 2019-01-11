@@ -62,8 +62,10 @@ CSCI-UA 201 Prerequisite: Data Structures (CSCI-UA 102). 4 points. Covers the in
 
 # Important Dates
 ---
-
-<p class="hang" markdown="1"> **Midterm Exam (these dates may change is there are any schedule changes):** <br>
+<p class="hang" markdown="1"> **Online test (these dates may change if there are any schedule changes):** <br>
+{{ site.online_test_date }}
+</p>
+<p class="hang" markdown="1"> **Midterm Exam (these dates may change if there are any schedule changes):** <br>
 {{ site.midterm_exam_date }}
 </p>
 <p class="hang" markdown="1"> **Final Exam:**

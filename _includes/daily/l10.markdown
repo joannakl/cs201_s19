@@ -12,10 +12,17 @@ Thu, 2/28
 <div class="column_materials">
 <p markdown="block">
 
+__Online test.__
+
+You can take this test from anywhere, but you have to take it during the
+regular class time.
+<!--
 
 Finish with floating point encoding.
 
 Start machine level programming.
+-->
+
 </p>
 </div>
 

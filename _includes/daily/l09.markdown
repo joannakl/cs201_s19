@@ -12,7 +12,9 @@ Tue, 2/26
 <div class="column_materials">
 <p markdown="block">
 
-__No classes scheduled__
+Finish with floating point encoding.
+
+Start machine level programming.
 
 
 </p>
