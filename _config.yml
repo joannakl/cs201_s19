@@ -76,7 +76,16 @@ book_required_image: "http://csapp.cs.cmu.edu/3e/images/csapp3e-cover.jpg"
 
 book_opt_1: "The C programming language, "
 book_opt_1_author: "Brian W. Kernighan, Dennis Ritchie, "
-book_opt_1_edition: "3nd edition, "
+book_opt_1_edition: "**2nd** edition, "
 book_opt_1_link: ""
 book_opt_1_note: "Optional, but strongly recommended (you can use any C programming book as an alternative)."
 book_opt_1_image: "https://www.pearsonhighered.com/assets/bigcovers/0/1/3/3/0133086216.jpg"
+
+
+book_opt_2: "C Essential Training, "
+book_opt_2_author: "Isac Artzi, "
+book_opt_2_edition: "Lynda.com tutorial, "
+book_opt_2_link: "https://www.lynda.com/C-tutorials/C-Essential-Training/164457-2.html?org=nyu.edu"
+book_opt_2_note: "You can use this online tutorial to dig into topics that you do not feel confident on.
+But you should be compiling your code using GCC, not Eclipse."
+book_opt_2_image: "https://cdn.lynda.com/static/images/consumermigration/Lynda Icon_2x.png"
