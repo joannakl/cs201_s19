@@ -16,53 +16,16 @@ Introduction: [course overview](https://docs.google.com/presentation/d/1FDBdgx6_
 
 
 
-__GitHub account setup and info__
-
-You will not be able to complete any labs or participate in the recitations until I've added you to the Github organization for the class, which will give you access to the class repositories.
-
-- Sign up for a Github account, if you do not have one already. If you do have one already, associate your nyu email address with that account (or create an additional account if you do not wish to use your primary account for
-the course).
-
-- Fill out the survey located [__here__](https://goo.gl/forms/km3I3p0r5GHMczad2).
-
-- By the start of first recitation, you will get an email from Github with an invitation to join the nyu-cs201-s18 organization. Follow the instructions to accept the invitation. Once you have accepted the invitation you will be able to see the other repositories here, including rec1, which you will begin during the first recitation.
-
-__Virtual lab machine setup instructions__
-
-You must complete all homework assignments and projects on the given virtual machine (or, at least, you need to verify that your code works on the given virtual machine). To install the virtual machine on your computer, take the following steps.
-
-- Download the Virtualbox virtual machine monitor [here](http://www.virtualbox.org/).
-Choose the right binary to download according to the type of operating system running on your computer. The latest version should work.
-- Download the class virtual machine image [here](https://goo.gl/JGoZhG) (Google Drive, NYU account login). This file is fairly large (~1GB), so you need to be patient. Do not start the download unless you have a decent connection and can stay in the same place for some time.
-- Install and launch Virtualbox. On the Virtualbox application toolbar, under the Menu item "File", click on "Import appliance...", and choose the previously downloaded CSO_Sp18.ova file when prompted.
-- Leave the default settings. You do not need to change anything.
-- After importing, start the virtual machine named CSO_Sp18 by pressing "START" key and you are done. The login name and password have been given to you in class.
-- (optional) Open the Devices menu option and click 'Insert guest additions CD image.' A disk will be mounted that you can find by click the little file icon in the bottom left portion of the screen. Click autorun.sh and execute this script. This will give you better screen resolution and a few additional features.
-
-_Troubleshooting:_
-
-- If there are no menues in the toolbars when you log in to the virtual machine, try to resize the window of the virtual
-machine and move it around (YES, not a very scientific approach, but it worked for some users in the past).
-
-- If you run into problems with installation or setup of the virtual machine (particularly likely with Windows users) see this [troubleshooting guide](http://cs.nyu.edu/courses/spring16/CSCI-UA.0201-001/resources/vm-troubleshoot.html).
-
-[WIndows 10 Bios access](https://www.laptopmag.com/articles/access-bios-windows-10)
-
-If these suggestions do not solve the problem, post a question in Piazza providing as many details as possible (the exact error message, your operating system, versions of the software, what things you have tried, etc.) and we will try to help.
-
-
-
 </p>
 </div>
 
 <div class="column_assign">
 <p markdown="block">
 
-- complete the survey located [__here__](https://goo.gl/forms/km3I3p0r5GHMczad2) (__due: by 5pm Jan. 22__)
+- read the  [syllabus]({{ site.url }}/syllabus.html), make sure you understand
+the rules for grading, due dates, lateness, etc.
 
-- install and setup the virtual machine for the class; see instructions on the left (__due: by 8am Jan. 23__)
-
-
+s
 
 </p>
 </div>

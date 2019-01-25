@@ -3,19 +3,30 @@
 
 <div class="column_date">
 <p markdown="block">
-        
-Rec # 1 <br> 
-        
+
+Rec # 1 <br>
+Mon, Jan 28 <br>
+Wed, Jan 30
+
 </p>          
 </div>
-    
+
 <div class="column_recitation">
 <p markdown="block">
 
-see [recitation 1](https://github.com/nyu-cs201-s18/rec1) repository         
+- complete this [consent form](https://goo.gl/forms/ejDasYmeDYw0TTmu2)
+- complete this [questionnaire](https://goo.gl/forms/u17qPki9hm2nulr42) - if you do not have a GitHub account, create one first
+
+
+- You will get an email from Github with an invitation to join the nyu-cs201-s19 organization. Follow the instructions to accept the invitation. Once you have accepted the invitation you will be able to see the materials for this course, including rec1 repository and your private version of it, which you will be working on during the first recitation.
+
+
+<!--
+see [recitation 1](https://github.com/nyu-cs201-s19/rec1) repository for the instructions for this recitation
+-->
+
 
 </p>        
 </div>
-    
+
 </div>
-  

@@ -18,7 +18,9 @@ title: Course Essentials
 if you have a conflict with that time, you need to register for a different section of the recitation or
 different section of this course)</p>
 
+<!--
 <p class="hang" markdown="1"><span class="emph">Recitation leader:</span>   {{ site.recitation_instructor_full }} </p>
+-->
 
 <p class="hang" markdown="1"><span class="emph">Office hours:</span> <br>
 <span class="name">Joanna:</span>
