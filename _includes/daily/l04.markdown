@@ -12,8 +12,11 @@ Thu, 2/7
 <div class="column_materials">
 <p markdown="block">
 
-Continue with basics of C: using header files, separate compilation, working with pointers, swap function, passing params to functions,
-arrays, traversing arrays using pointers.
+Continue with pointers in C: three _ideas_ associated with each
+variable (value, memory addresses, size of memory block),
+names of arrays as pointers, using pointers with subscript operator.
+
+
 
 </p>
 </div>
@@ -21,7 +24,7 @@ arrays, traversing arrays using pointers.
 <div class="column_assign">
 <p markdown="block">
 
-
+Finish the remaining problems for the activity. 
 
 
 </p>

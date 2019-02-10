@@ -12,9 +12,10 @@ Tue, 2/5
 <div class="column_materials">
 <p markdown="block">
 
-Continue with basics of C.
+Quiz 1.
 
-[lecture 2](notes/Lecture02-C_basics.pdf), slightly more, but not yet finished
+Intro to C, part 2: introduction to pointers, memory addresses,
+dereference operator.
 
 </p>
 </div>
@@ -22,12 +23,7 @@ Continue with basics of C.
 <div class="column_assign">
 <p markdown="block">
 
-- install missing manual pages (man pages) on the virtual machine
-    - open the terminal window
-    - run `sudo apt install manpages-posix-dev`
-    - you will be prompted for the password (same as what you use for logging
-    in to the virtual machine)
-
+Continue working on the activity started in class. 
 
 
 

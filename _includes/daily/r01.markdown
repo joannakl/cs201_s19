@@ -21,9 +21,9 @@ Wed, Jan 30
 - You will get an email from Github with an invitation to join the nyu-cs201-s19 organization. Follow the instructions to accept the invitation. Once you have accepted the invitation you will be able to see the materials for this course, including rec1 repository and your private version of it, which you will be working on during the first recitation.
 
 
-<!--
-see [recitation 1](https://github.com/nyu-cs201-s19/rec1) repository for the instructions for this recitation
--->
+
+see rec1 repository for the instructions for this recitation
+
 
 
 </p>        
