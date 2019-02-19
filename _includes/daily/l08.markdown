@@ -13,10 +13,9 @@ Thu, 2/21
 <div class="column_materials">
 <p markdown="block">
 
+Quiz
 
-Data representation: floating point numbers, IEEE 754 encoding
 
-[slides](https://docs.google.com/presentation/d/1h0W3hDXrmpl1g6VAcyVisWNTMXcdWdv3uKg4AA3XJ7M/preview?slide=id.p)
 
 </p>
 </div>

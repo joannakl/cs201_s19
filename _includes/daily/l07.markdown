@@ -12,19 +12,17 @@ Tue, 2/19
 <div class="column_materials">
 <p markdown="block">
 
+The journey from source code to executable code: preprocessor, compiler, linker, assemly code, object code, executable code.
 
-Data representation: more on integer representation, casting, truncating, overflow
-due to addition and multiplication.
+Structures.
 
-
+Defining data structures in C.
 
 </p>
 </div>
 
 <div class="column_assign">
 <p markdown="block">
-
-Project 1 available in repositories on Github.
 
 
 </p>

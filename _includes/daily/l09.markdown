@@ -12,6 +12,23 @@ Tue, 2/26
 <div class="column_materials">
 <p markdown="block">
 
+
+Dynamic memory allocation.
+
+Data representation: bit vectors, unsigned int, int.
+
+[slides](https://docs.google.com/presentation/d/1BpqqURc7MyEsB5l1j7-UHgTpZ9fIEkL_HkiaWreMprY/preview?slide=id.p)
+
+
+Data representation: more on integer representation, casting, truncating, overflow
+due to addition and multiplication.
+
+
+Data representation: floating point numbers, IEEE 754 encoding
+
+[slides](https://docs.google.com/presentation/d/1h0W3hDXrmpl1g6VAcyVisWNTMXcdWdv3uKg4AA3XJ7M/preview?slide=id.p)
+
+
 Finish with floating point encoding.
 
 Start machine level programming.

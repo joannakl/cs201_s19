@@ -12,11 +12,8 @@ Thu, 2/14
 <div class="column_materials">
 <p markdown="block">
 
-Dynamic memory allocation.
-
-Data representation: bit vectors, unsigned int, int.
-
-[slides](https://docs.google.com/presentation/d/1BpqqURc7MyEsB5l1j7-UHgTpZ9fIEkL_HkiaWreMprY/preview?slide=id.p)
+Intro to C, part 3: pointers, dynamic memory allocation,
+structures.
 
 </p>
 </div>
