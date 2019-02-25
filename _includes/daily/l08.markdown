@@ -15,7 +15,10 @@ Thu, 2/21
 
 Quiz
 
+Two's complements and binary level of representing integer data types in C.
 
+
+[slides](https://docs.google.com/presentation/d/1BpqqURc7MyEsB5l1j7-UHgTpZ9fIEkL_HkiaWreMprY/preview?slide=id.p)
 
 </p>
 </div>

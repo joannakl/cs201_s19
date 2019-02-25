@@ -12,6 +12,11 @@ Tue, 3/5
 <div class="column_materials">
 <p markdown="block">
 
+Finish with floating point encoding.
+
+Start machine level programming.
+
+
 Machine level programming.
 
 
