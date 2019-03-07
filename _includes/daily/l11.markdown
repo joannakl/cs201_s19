@@ -21,7 +21,7 @@ Floating point encoding - what do all the bits mean.
 <div class="column_assign">
 <p markdown="block">
 
-
+Project 2 posted. 
 
 
 </p>
