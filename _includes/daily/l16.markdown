@@ -13,8 +13,15 @@ Thu, 3/28
 <p markdown="block">
 
 
-<img src="https://c1.staticflickr.com/6/5471/11287461455_5bd5cdfd15_b.jpg" width="100px" alt="snow day" align="middle">
+Control structures.
 
+[slides](https://docs.google.com/presentation/d/1xBRBB-zCWUfjCTA9X8QBkmeOkz4qVaZXL01MzWXfya8/present?token=AC4w5Viwi-jxPXnA2o7yoeJATGclhSziNg%3A1521548170906&includes_info_params=1#slide=id.p)
+
+
+
+Additional resources:
+
+- [Assembly to C Example](https://www.youtube.com/watch?v=wy3e52A7Lu8) by Chris Gregg 
 
 
 </p>
@@ -23,6 +30,8 @@ Thu, 3/28
 <div class="column_assign">
 <p markdown="block">
 
+
+Project 3 posted. Repositories available on GitHub on March 30. Due date April 10.
 
 
 

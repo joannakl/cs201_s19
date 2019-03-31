@@ -12,9 +12,10 @@ Tue, 3/26
 <div class="column_materials">
 <p markdown="block">
 
-Control structures.
 
-[slides](https://docs.google.com/presentation/d/1xBRBB-zCWUfjCTA9X8QBkmeOkz4qVaZXL01MzWXfya8/present?token=AC4w5Viwi-jxPXnA2o7yoeJATGclhSziNg%3A1521548170906&includes_info_params=1#slide=id.p)
+Machine level programming: arithmetic and logical operations.
+
+[slides](https://docs.google.com/presentation/d/1Bmpjmoh4q32m2Y2DmqzYO516q4e3UUuSGUQ0yRD_qNM/preview#slide=id.p) <br>
 
 Additional resources:
 
@@ -29,10 +30,7 @@ Additional resources:
 <div class="column_assign">
 <p markdown="block">
 
-Project 2, due March 30.
-
-Repositories available in GitHub class organization.
-
+Read chapter 3 (skip 3.11)
 
 </p>
 </div>
