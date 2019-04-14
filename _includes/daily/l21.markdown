@@ -30,7 +30,7 @@ Memory hierarchy, part 2: cache memories.
 <p markdown="block">
 
 
-Reading: chapter 6.
+Reading: chapter 8.
 
 
 

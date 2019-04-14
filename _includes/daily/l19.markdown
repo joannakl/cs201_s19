@@ -28,6 +28,7 @@ Examples:
 <p markdown="block">
 
 
+Reading: chapter 6.
 </p>
 </div>
 
