@@ -12,7 +12,10 @@ Tue, 4/9
 <div class="column_materials">
 <p markdown="block">
 
-Arrays and structures in assembly.
+Arrays, structures and other things in assembly.
+
+[slides](https://docs.google.com/presentation/d/1hGbHZ_meujo1_hJvmIFbKTATxrtt1nIbytjXOuZ5FOE/present?token=AC4w5Vj1wpDQmyp58_MN6SOe_6coDl8gww%3A1522150953368&includes_info_params=1#slide=id.p)
+
 
 Examples:
 
@@ -23,7 +26,6 @@ Examples:
 
 <div class="column_assign">
 <p markdown="block">
-
 
 
 </p>

@@ -22,8 +22,8 @@ Memory hierarchy.
 <div class="column_assign">
 <p markdown="block">
 
-Reading: chapter 6.
 
+Project 4 posted.
 
 </p>
 </div>
