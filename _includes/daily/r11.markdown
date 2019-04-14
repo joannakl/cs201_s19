@@ -5,7 +5,7 @@
 <p markdown="block">
 
 Rec # 11 <br>
-April 10
+
 
 </p>          
 </div>

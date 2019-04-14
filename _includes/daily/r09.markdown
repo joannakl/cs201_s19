@@ -5,7 +5,7 @@
 <p markdown="block">
 
 Rec # 9 <br>
-March 27
+
 
 </p>          
 </div>
@@ -13,9 +13,7 @@ March 27
 <div class="column_recitation">
 <p markdown="block">
 
-Working with assembly. 
-
-recitation 8 repositories available on GitHub
+see recitation 9 repository in the course organization on GitHub
 
 
 
