@@ -24,9 +24,9 @@ More on processes: Linux process hierarchy, shells, signals.
 <div class="column_assign">
 <p markdown="block">
 
-- Project 4 posted (repositories available on GitHub).
+- Project 5 posted (repositories available on GitHub).
 
-  Due: May 4.
+  Due: May 8.
 
 
 - Reading chapter 9.

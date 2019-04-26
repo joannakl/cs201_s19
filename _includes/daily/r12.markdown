@@ -5,13 +5,17 @@
 <p markdown="block">
 
 Rec # 12 <br>
-April 17
+
 
 </p>          
 </div>
 
 <div class="column_recitation">
 <p markdown="block">
+
+
+
+see recitation 12 repository in the course organization on GitHub
 
 
 

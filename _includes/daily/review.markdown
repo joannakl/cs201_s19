@@ -14,7 +14,7 @@
 Q&amp;A before the exam
 (attendance optional)
 
-May 8, 11am in 109 CIWW  
+May 14, 12:00-1:30pm in 109 CIWW  
 
 </p>        
 </div>

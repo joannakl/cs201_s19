@@ -12,9 +12,9 @@ Thu, 4/25
 <div class="column_materials">
 <p markdown="block">
 
-Quiz.
 
-More on processes.
+
+More on processes: creating, terminating, process ID and parent process ID.
 
 
 </p>

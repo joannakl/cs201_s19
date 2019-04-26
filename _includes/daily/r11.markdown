@@ -13,9 +13,9 @@ Rec # 11 <br>
 <div class="column_recitation">
 <p markdown="block">
 
-Working with cache memories. Determining the stack content of a running program.
 
-recitation 10 repositories available on GitHub
+see recitation 11 repository in the course organization on GitHub
+
 
 
 
